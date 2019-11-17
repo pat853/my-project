@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Education</title>
+<style>
+body{
+  height: auto;
+  width: auto;
+  background-color:grey;
+}
+p{
+  color:black;
+  font-size:30px;
+  font-style: italic;
+  font-weight: 600;
+}
+.SI{
+  font-size: 50px;
+  color: white;
+  font-weight:bold;
+  text-align:center;
+  background-color:red;
+}
+.EW{
+  font-size: 28px;
+  color:red;
+  font-weight:bold;
+  text-align:center;
+  font-style: oblique;
+}
+</style>
+</head>
+<body>
+<header>
+<div class="SI">SELF INTRODUCTION</DIV>
+<div class="containor"></div>
+<hr>
+<div class="EW">Here is my Education Table</div>
+<hr>
+<img src="book.jpg" hight="30%" width="40%" align="left" alt="imadegawa river">
+<p><font size="1">This image taken from:https://www.gettyimages.co.jp/detail/%E5%86%99%E7%9C%9F/stack-of-books</font></p>
+<div class="table">
+<table border="1 px" cellpadding="5%" cellspecing="0" bgcolor="white" bordercolor="red">
+<tr>
+<th><b><h2><i><font color="blue">Year</font></i></h2></b></th>
+<th><b><h2><i><font color="blue">Qualification</font></i></h2></b></th>
+<th><b><h2><i><font color="blue">School and University</font></i></h2></b></th>
+</tr>
+<tr>
+<th><b><h2><i><font color="blue">2013</font></i></h2></b></th>
+<th><b><h2><i><font color="blue">SLC</font></i></h2></b></th>
+<th><b><h2><i><font color="blue">Shree Janahit Higher Secondary School</font></i></h2></b></th>
+</tr>
+<tr>
+<th><b><h2><i><font color="blue">2015</font></i></h2><b></th>
+<th><b><h2><i><font color="blue">+2</font></i><h2><b></th>
+<th><b><h2><i><font color="blue">Shree Janahit Higher Secondary School</font></i></h2><b></th>
+</tr>
+<tr>
+<th><b><h2><i><font color="blue">2018</font></i><h2><b></th>
+<th><b><h2><i><font color="blue">Bachular's Degree</font></i></h2></b></th>
+<th><b><h2><i><font color="blue">Vindhyabasini Campus</font></i></h2></b></th>
+</tr>
+</table>
+</div>
+</header>
+<footer>
+<text align="center"> <h3><a href="index.html"><font color="yellow">Go B@Ck at Index</font></a></h3>
+</footer>
+</body>
+</html>
